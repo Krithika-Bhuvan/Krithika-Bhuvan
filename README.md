@@ -8,7 +8,7 @@ Krithika is a Senior Bioinformatician at Georgetown University - Innovation Cent
 * Our paper in #Nature Communications (Dec 2022) regarding a large scale consortium effort to develop a #federated learning approach for AI models based on #braincancer#imaging .
 https://www.linkedin.com/feed/update/urn:li:activity:7005624780414480384/
 
-* Our paper on `Enhancing the REMBRANDT MRI brain cancer collection` in Nature Scientific Data (Sep 2022)
+* Our paper on 'Enhancing the REMBRANDT MRI brain cancer collection' in Nature Scientific Data (Sep 2022)
 In this paper, we took raw #MRI scans from the REMBRANDT #braincancer collection, and performed volumetric #segmentation to identify subregions of the brain. #Radiomic features were then extracted to represent the MRIs in a #quantitative yet summarized format. 
 https://www.linkedin.com/feed/update/urn:li:activity:6942509381666181120/
 Link to the paper: https://rdcu.be/cPDby
