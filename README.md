@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ About 
 
-Krithika is a Senior Bioinformatician at Georgetown University - Innovation Center for Biomedical Informatics (ICBI). She has over 13 years professional work experience and combines her interdisciplinary skills in bioinformatics and biostatistics for numerous projects. She applies her bioinformatics expertise to develop novel algorithms and analysis pipelines for clinical, genomic and expression profiling data management, quality control and integrative downstream analysis. Her research work also involves utilizing cloud computing for high throughput bioinformatic analysis of genome sequencing data and other omics data, statistical and probabilistic network analysis, systems biology and pathway analysis. 
+Krithika is a Bioinformatics Analyst and has over 13 years professional work experience and combines her interdisciplinary skills in bioinformatics and biostatistics for numerous projects. She applies her bioinformatics expertise to develop novel algorithms and analysis pipelines for clinical, genomic and expression profiling data management, quality control and integrative downstream analysis. Her research work also involves utilizing cloud computing for high throughput bioinformatic analysis of genome sequencing data and other omics data, statistical and probabilistic network analysis, systems biology and pathway analysis. 
 
 ## 🌈 Recent work 
 
