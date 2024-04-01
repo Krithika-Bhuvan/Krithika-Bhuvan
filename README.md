@@ -6,7 +6,7 @@ Krithika is a Biomedical Data Scientist and has over 13 years professional work 
 
 ## 🌈 Recent work (selected)
 
-* Review article in Briefings in Bioinformatics summarizing existing knowledge derived from molecular and cellular data, and described challenges and areas of opportunities in this rapidly evolving field (PMID: 38493340) published in [March 2024](https://www.linkedin.com/posts/krithikab_mentalhealth-neuroscience-bioinformatics-activity-7179443723108274180-OppK?utm_source=share&utm_medium=member_desktop)
+* Review article in Briefings in Bioinformatics summarizing existing knowledge derived from molecular and cellular data, and described challenges and areas of opportunities in this rapidly evolving field of mental health and neuroscience (PMID: 38493340) published in [March 2024](https://www.linkedin.com/posts/krithikab_mentalhealth-neuroscience-bioinformatics-activity-7179443723108274180-OppK?utm_source=share&utm_medium=member_desktop)
 * Publication in #Nature Communications (**Dec 2022**) regarding a large scale consortium effort to develop a #federated learning approach for AI models based on #braincancer#imaging : https://www.linkedin.com/feed/update/urn:li:activity:7005624780414480384/
 * Publication titled 'Enhancing the REMBRANDT MRI brain cancer collection' in #Nature Scientific Data (**Sep 2022**)
 In this paper, we took raw #MRI scans from the REMBRANDT #braincancer collection, and performed volumetric #segmentation to identify subregions of the brain. #Radiomic features were then extracted to represent the MRIs in a #quantitative yet summarized format.  Read more here: https://www.linkedin.com/feed/update/urn:li:activity:6942509381666181120/. Link to the paper: https://rdcu.be/cPDby
