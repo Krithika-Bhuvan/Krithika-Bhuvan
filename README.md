@@ -4,7 +4,7 @@
 
 Krithika is a Data Scientist and has over 14 years professional work experience and combines her interdisciplinary skills in health data science, informatics and applied statistics for numerous projects. 
 
-Her work focuses on using cloud computing and high-performance computing (HOC) for analyzing large-scale genomic and omics data. She employs machine learning, applied statistics, and systems biology techniques for in-depth analysis. Additionally, she applies her data science skills to clean, manage and analyze clinical and genomic data; and develop new algorithms.
+Krithika employs machine learning, applied statistics, and systems biology techniques for in-depth analysis. Additionally, she applies her data science skills to clean, manage and analyze clinical and genomic data; and develop new algorithms. Her work also involves using cloud computing and high-performance computing (HPC) for analyzing large-scale data analysis. 
 
 ## 🌈 Recent work (selected)
 
