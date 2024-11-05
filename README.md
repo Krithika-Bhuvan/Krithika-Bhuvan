@@ -6,7 +6,7 @@ Krithika is a Data Scientist and has over 14 years professional work experience 
 
 Krithika employs machine learning, applied statistics, and systems biology techniques for in-depth analysis. Additionally, she applies her data science skills to clean, manage and analyze clinical and genomic data; and develop new algorithms. Her work also involves using cloud computing and high-performance computing (HPC) for analyzing large-scale data analysis. 
 
-## 🌈 Recent work (selected)
+## 🌈 Recent publications (selected)
 
 * Applied data-driven approaches to explore the multi-dimensional landscape of infected lung tissue in coronavirus patients. This proof-of-concept study provides insights into the complex interactions between viral infection, immune response and the lung microbiome in connection with Long COVID. Article in *Heliyon* (**June 2024**) [Bhuvaneswhar K et al](https://www.sciencedirect.com/science/article/pii/S2405844024088030)
 * Review article in *Briefings in Bioinformatics* summarizing existing knowledge derived from molecular and cellular data, and described challenges and areas of opportunities in this rapidly evolving field of mental health and neuroscience (**March 2024**). [Bhuvaneswhar K et al. PMID: 38493340](https://www.linkedin.com/posts/krithikab_mentalhealth-neuroscience-bioinformatics-activity-7179443723108274180-OppK?utm_source=share&utm_medium=member_desktop)
