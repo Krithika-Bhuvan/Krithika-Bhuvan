@@ -14,7 +14,6 @@ Krithika employs machine learning, applied statistics, and systems biology techn
 * Publication in *Nature Scientific Data* (**Sep 2022**) titled 'Enhancing the REMBRANDT MRI brain cancer collection' . In this paper, we took raw #MRI scans from the REMBRANDT #braincancer collection, and performed volumetric #segmentation to identify subregions of the brain. #Radiomic features were then extracted to represent the MRIs in a #quantitative yet summarized format.  Read more here: https://www.linkedin.com/feed/update/urn:li:activity:6942509381666181120/. Link to the paper: [Sayah A, Bencheqroun C, Bhuvaneshwar K et al PMID 35701399](https://pubmed.ncbi.nlm.nih.gov/35701399/)
 * Book chapter: Bioinformatics in Mental Health: Deriving Knowledge from Molecular and Cellular Data (Chapter 11). [Bhuvaneswhar K et al.](https://www.springer.com/gp/book/9783030) (**2021**)
 * Publication on the second largest brain cancer collection in *Nature Scientific Data* (**Aug 2018**) titled 'The REMBRANDT study, a large collection of genomic data from brain cancer patients'. [Gusev Y & Bhuvaneswhar K et al. PMID 30106394](https://www.nature.com/articles/sdata2018158) _Co-first authors_
-* Full list of publications: https://bit.ly/krithikab
 
 ## ✅ Websites 
 
