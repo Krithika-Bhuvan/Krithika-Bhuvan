@@ -6,8 +6,8 @@ Krithika is a Data Scientist and has over 14 years professional work experience 
 
 Krithika employs machine learning, applied statistics, and systems biology techniques for in-depth analysis. Additionally, she applies her data science skills to clean, manage and analyze clinical and genomic data; and develop new algorithms. Her work also involves using cloud computing and high-performance computing (HPC) for analyzing large-scale data analysis of genomic data. 
 
-## 🌈 Recent publications (selected)
-
+## 🌈 Select publications
+* The Targetable Molecular Algorithm (TMA) platform, an interactive online tool for improving precision oncology in NSCLC by streamlining NGS-guided molecular testing and bridging gaps in care. Article in *JAMIA Open* **(Nov 2024)** [Bhuvaneshwar K et al](https://academic.oup.com/jamiaopen/article/7/4/ooae124/7879472)
 * Applied data-driven approaches to explore the multi-dimensional landscape of infected lung tissue in coronavirus patients. This proof-of-concept study provides insights into the complex interactions between viral infection, immune response and the lung microbiome in connection with Long COVID. Article in *Heliyon* (**June 2024**) [Bhuvaneswhar K et al](https://www.sciencedirect.com/science/article/pii/S2405844024088030)
 * Review article in *Briefings in Bioinformatics* summarizing existing knowledge derived from molecular and cellular data, and described challenges and areas of opportunities in this rapidly evolving field of mental health and neuroscience (**March 2024**). [Bhuvaneswhar K et al. PMID: 38493340](https://www.linkedin.com/posts/krithikab_mentalhealth-neuroscience-bioinformatics-activity-7179443723108274180-OppK?utm_source=share&utm_medium=member_desktop)
 * Publication in *Nature Communications* (**Dec 2022**) regarding a large scale consortium effort to develop a #federated learning approach for AI models based on #braincancer #imaging. [PMID 36470898](https://www.linkedin.com/feed/update/urn:li:activity:7005624780414480384/)
@@ -15,8 +15,10 @@ Krithika employs machine learning, applied statistics, and systems biology techn
 * Book chapter: Bioinformatics in Mental Health: Deriving Knowledge from Molecular and Cellular Data (Chapter 11). [Bhuvaneswhar K et al.](https://www.springer.com/gp/book/9783030) (**2021**)
 * Publication on the second largest brain cancer collection in *Nature Scientific Data* (**Aug 2018**) titled 'The REMBRANDT study, a large collection of genomic data from brain cancer patients'. [Gusev Y & Bhuvaneswhar K et al. PMID 30106394](https://www.nature.com/articles/sdata2018158) _Co-first authors_
 
-## ✅ Websites 
+## Notable Mentions
+* Participated in the HTAN Data Jamboree, a code-a-thon-style team event, where I developed a multi-agent LLM to enable end users to easily explore and query spatial transcriptomics data on the HTAN BigQuery platform (Nov 2024). Link: https://github.com/NCI-HTAN-Jamborees/spatiAlytica-LLM 
 
+## ✅ Websites 
 * https://www.linkedin.com/in/krithikab/
 * https://icbi.georgetown.edu/Bhuvaneshwar
 * https://healthinformatics.georgetown.edu/faculty/
