@@ -16,7 +16,7 @@ Krithika employs machine learning, applied statistics, and systems biology techn
 * Publication on the second largest brain cancer collection in *Nature Scientific Data* (**Aug 2018**) titled 'The REMBRANDT study, a large collection of genomic data from brain cancer patients'. [Gusev Y & Bhuvaneswhar K et al. PMID 30106394](https://www.nature.com/articles/sdata2018158) _Co-first authors_
 
 ## Notable Mentions
-* Participated in the **HTAN Data Jamboree**, a hackathon-style team event, where we developed as a team, a multi-agent LLM to enable endusers to easily explore and query spatial transcriptomics data located on the HTAN BigQuery and Synapse platforms (Nov 2024). Link: https://github.com/NCI-HTAN-Jamborees/spatiAlytica-LLM 
+* Participated in the **HTAN Data Jamboree**, a hackathon-style team event, where we developed as a team, a multi-agent LLM to enable endusers to easily explore and query spatial transcriptomics data located on the HTAN BigQuery and Synapse platforms (**Nov 2024**). Link: https://github.com/NCI-HTAN-Jamborees/spatiAlytica-LLM 
 
 ## ✅ Websites 
 * https://www.linkedin.com/in/krithikab/
