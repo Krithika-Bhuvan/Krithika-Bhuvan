@@ -7,7 +7,7 @@ Krithika is a Data Scientist and has over 14 years professional work experience 
 Krithika employs machine learning, applied statistics, and systems biology techniques for in-depth analysis. Additionally, she applies her data science skills to clean, manage and analyze clinical and genomic data; and develop new algorithms. Her work also involves using cloud computing and high-performance computing (HPC) for analyzing large-scale data analysis of genomic data. 
 
 ## Notable Mentions
-* Participated in the **HTAN Data Jamboree**, a hackathon-style team event, where we developed as a team, a multi-agent LLM to enable endusers to easily explore and query spatial transcriptomics data located on the HTAN BigQuery and Synapse platforms (**Nov 2024**). Link: https://github.com/NCI-HTAN-Jamborees/spatiAlytica-LLM 
+* Participated in the **HTAN Data Jamboree**, a hackathon-style team event, where we developed as a team, a multi-agent LLM to enable endusers to easily explore and query spatial transcriptomics data located on the HTAN BigQuery and Synapse platforms (**Nov 2024**). Link: [https://github.com/NCI-HTAN-Jamborees/HTANalyzer-LLM)](https://github.com/NCI-HTAN-Jamborees/HTANalyzer-LLM)
 
 ## 🌈 Select publications
 * The Targetable Molecular Algorithm (TMA) platform, an interactive online tool for improving precision oncology in NSCLC by streamlining NGS-guided molecular testing and bridging gaps in care. Article in *JAMIA Open* **(Nov 2024)** [Bhuvaneshwar K et al](https://academic.oup.com/jamiaopen/article/7/4/ooae124/7879472)
