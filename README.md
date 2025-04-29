@@ -2,9 +2,9 @@
 
 ## 🙋‍♀️ About 
 
-Krithika is a Data Scientist and has over 14 years professional work experience and combines her interdisciplinary skills in health data science, informatics and applied statistics for numerous projects. 
+Krithika is a Data Scientist and has over 15 years professional work experience and combines her interdisciplinary skills in health data science, informatics and applied statistics for numerous projects. 
 
-Krithika employs machine learning, applied statistics, and systems biology techniques for in-depth analysis. Additionally, she applies her data science skills to clean, manage and analyze clinical and genomic data; and develop new algorithms. Her work also involves using cloud computing and high-performance computing (HPC) for analyzing large-scale data analysis of genomic data. 
+Krithika employs machine learning, applied statistics, and systems biology techniques for in-depth analysis. Additionally, she applies her data science skills to clean, manage and analyze clinical and genomic data; and develop new algorithms. Her work also involves using cloud computing (Amazon and Google cloud) and high-performance computing (HPC) for analyzing large-scale data analysis of genomic data. 
 
 ## Notable Mentions
 * Participated in the **HTAN Data Jamboree**, a hackathon-style team event, where we developed as a team, a multi-agent LLM to enable endusers to easily explore and query spatial transcriptomics data located on the HTAN BigQuery and Synapse platforms (**Nov 2024**). Link: [https://github.com/NCI-HTAN-Jamborees/HTANalyzer-LLM)](https://github.com/NCI-HTAN-Jamborees/HTANalyzer-LLM)
@@ -20,7 +20,6 @@ Krithika employs machine learning, applied statistics, and systems biology techn
 
 ## ✅ Websites 
 * https://www.linkedin.com/in/krithikab/
-* https://healthinformatics.georgetown.edu/faculty/
 
 ## Publications
 * [bit.ly/krithikab](https://bit.ly/krithikab)
