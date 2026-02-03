@@ -10,9 +10,9 @@ Krithika employs machine learning, applied statistics, and systems biology techn
 * Participated in the **HTAN Data Jamboree**, a hackathon-style team event, where we developed as a team, a multi-agent LLM to enable endusers to easily explore and query spatial transcriptomics data located on the HTAN BigQuery and Synapse platforms (**Nov 2024**). Link: [https://github.com/NCI-HTAN-Jamborees/HTANalyzer-LLM)](https://github.com/NCI-HTAN-Jamborees/HTANalyzer-LLM)
 
 ## Packages and pipelines developed
-* Fruitsc - A snakemake pipeline to analyze HiC data on NIH's HPC cluster _(tech stack: python)_   [https://github.com/NCI-CCR-POB/fruitsc](https://github.com/NCI-CCR-POB/fruitsc)
+* Fruitsc - A snakemake pipeline to analyze HiC data on NIH's HPC cluster _(tech stack: python and bash)_   [https://github.com/NCI-CCR-POB/fruitsc](https://github.com/NCI-CCR-POB/fruitsc)
 * viGEN - A bioinformatics pipeline for the exploration of viral RNA in human NGS data _(tech stack: bash and R)_ [https://github.com/ICBI/viGEN]([https://github.com/ICBI/viGEN)
-* CINdex - A bioconductor package for the analysis of DNA copy number data _(tech stack: R)_[https://github.com/ICBI/CINdex](https://github.com/ICBI/CINdex)
+* CINdex - A bioconductor package for the analysis of DNA copy number data _(tech stack: R)_ [https://github.com/ICBI/CINdex](https://github.com/ICBI/CINdex)
 
 ## Select publications
 * Publication in ***Nature Communications (July 2025)*** : [Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge PMID 40628696](https://pubmed.ncbi.nlm.nih.gov/40628696/)
